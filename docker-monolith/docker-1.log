@@ -1,0 +1,4 @@
+REPOSITORY               TAG       IMAGE ID       CREATED          SIZE
+andrey/ubuntu-tmp-file   latest    97d861d52509   40 seconds ago   63.2MB
+ubuntu                   18.04     f9a80a55f492   6 weeks ago      63.2MB
+hello-world              latest    9c7a54a9a43c   2 months ago     13.3kB
